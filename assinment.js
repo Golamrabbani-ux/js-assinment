@@ -60,5 +60,5 @@ function tinyFriend(friends){
 
 var allFriends = ["Abir", "Kobir", "G.Rabbani", "Raihan", "Ali", "Nabila"];
 var result = tinyFriend(allFriends);
-console.log(result);
+// console.log(result);
 
